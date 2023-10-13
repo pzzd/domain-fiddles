@@ -1,0 +1,3 @@
+domain,effective_url,css_path,has_fontname
+www.mydomain.com,http://www.mydomain.com,"http://www.mydomain.com/css/medium.css",1
+www.mydomain.com,http://www.mydomain.com,"http://www.mydomain.com/css/pickles.css",0

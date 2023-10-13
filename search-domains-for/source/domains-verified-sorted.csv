@@ -1,0 +1,3 @@
+header,view,address,http_response,effective_url,content_type,size_download,has_html_tag
+cnamerecord,external,ftp.mydomain.com,503,ftp://ftp.mydomain.com/,"",0,0
+cnamerecord,external,www.mydomain.com,200,http://www.mydomain.com/,"text/html;charset=utf-8",787,1

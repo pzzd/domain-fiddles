@@ -1,0 +1,3 @@
+domain,effective_url,has_html_tag,check_for_fontname,has_fontname
+ftp.mydomain.com,ftp://ftp.mydomain.com/,0,0,0
+www.mydomain.com,https://www.mydomain.com/,1,1,3
